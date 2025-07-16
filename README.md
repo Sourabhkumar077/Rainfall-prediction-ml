@@ -19,7 +19,7 @@ This project demonstrates how to use machine learning techniques to predict rain
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/EDUNET-ML.git
+   git clone https://github.com/Sourabhkumar077/EDUNET-ML.git
    cd EDUNET-ML
    ```
 
