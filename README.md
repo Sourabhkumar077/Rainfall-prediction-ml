@@ -24,8 +24,8 @@ Below is a screenshot of the Rainfall Prediction Streamlit app:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Sourabhkumar077/EDUNET-ML.git
-   cd EDUNET-ML
+   git clone https://github.com/Sourabhkumar077/Rainfall-prediction-ml.git
+   cd Rainfall-prediction-ml
    ```
 
 2. **Create and activate a virtual environment (optional but recommended)**
@@ -40,7 +40,7 @@ Below is a screenshot of the Rainfall Prediction Streamlit app:
 3. **Install required dependencies**
    ```bash
    pip install -r requirements.txt
-   # Or, if requirements.txt is not present:
+   # Or, 
    pip install notebook numpy pandas matplotlib seaborn scikit-learn
    ```
 
@@ -48,7 +48,7 @@ Below is a screenshot of the Rainfall Prediction Streamlit app:
    ```bash
    jupyter notebook
    ```
-   Open `Rainfall_Prediction_using_Machine_Learning.ipynb` in your browser and run the cells.
+   Open `Rainfall_Prediction_ml.ipynb` in your browser and run the cells.
 
 ## Usage
 - Run the notebook cell by cell to follow the data analysis and model building process.
@@ -74,6 +74,7 @@ This project is for educational purposes. Please check dataset source for any us
 - [Pandas](https://pandas.pydata.org/)
 - [Matplotlib](https://matplotlib.org/)
 - [Seaborn](https://seaborn.pydata.org/) 
+<<<<<<< HEAD
 
 Great question! You can create a simple and interactive UI for your rainfall prediction project using **Streamlit**. Streamlit allows you to turn your data science code into a web app with minimal effort.
 
@@ -148,3 +149,5 @@ This will open a web browser with your interactive UI.
 ---
 
 **Would you like me to generate a full example Streamlit app for your rainfall prediction project, including model loading and prediction?** If yes, let me know if you have a trained model file or want to train the model within the app! 
+=======
+>>>>>>> 0a67f23eb36f3c20bf80990b0dc543c0be33a3c6
