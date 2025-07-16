@@ -9,7 +9,7 @@ Below is a screenshot of the Rainfall Prediction Streamlit app:
 
 ## Project Structure
 
-- `Rainfall_Prediction_using_Machine_Learning.ipynb`: Main Jupyter Notebook containing the code, data analysis, and model building steps.
+- `Rainfall_Prediction_ml.ipynb`: Main Jupyter Notebook containing the code, data analysis, and model building steps.
 - `Rainfall.csv`: Dataset containing historical weather and rainfall data.
 - `venv/`: (Optional) Python virtual environment directory.
 - `.gitignore`: Specifies files and folders to be ignored by Git.
@@ -148,6 +148,3 @@ This will open a web browser with your interactive UI.
 
 ---
 
-**Would you like me to generate a full example Streamlit app for your rainfall prediction project, including model loading and prediction?** If yes, let me know if you have a trained model file or want to train the model within the app! 
-=======
->>>>>>> 0a67f23eb36f3c20bf80990b0dc543c0be33a3c6
