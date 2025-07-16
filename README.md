@@ -19,8 +19,8 @@ This project demonstrates how to use machine learning techniques to predict rain
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Sourabhkumar077/EDUNET-ML.git
-   cd EDUNET-ML
+   git clone https://github.com/Sourabhkumar077/Rainfall-prediction-ml.git
+   cd Rainfall-prediction-ml
    ```
 
 2. **Create and activate a virtual environment (optional but recommended)**
@@ -35,7 +35,7 @@ This project demonstrates how to use machine learning techniques to predict rain
 3. **Install required dependencies**
    ```bash
    pip install -r requirements.txt
-   # Or, if requirements.txt is not present:
+   # Or, 
    pip install notebook numpy pandas matplotlib seaborn scikit-learn
    ```
 
@@ -43,7 +43,7 @@ This project demonstrates how to use machine learning techniques to predict rain
    ```bash
    jupyter notebook
    ```
-   Open `Rainfall_Prediction_using_Machine_Learning.ipynb` in your browser and run the cells.
+   Open `Rainfall_Prediction_ml.ipynb` in your browser and run the cells.
 
 ## Usage
 - Run the notebook cell by cell to follow the data analysis and model building process.
